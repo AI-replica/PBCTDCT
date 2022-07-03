@@ -1,0 +1,4 @@
+wheel
+pyaudio
+pycairo
+PyGObject
